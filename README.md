@@ -1,8 +1,3 @@
-# Vamos a transcribir el texto de la imagen a un formato Markdown o texto plano bien prolijo
-# para que el usuario pueda usarlo como "código" en un bloc de notas o en Git.
-
-texto_prolijo = """# Trabajo Práctico N°0
-
 ## Ejercicio 1: Lenguaje utilizado: "C"
 
 ### Reglas del lenguaje
