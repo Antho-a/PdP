@@ -19,10 +19,3 @@
 - Control directo del hardware.
 - Creación de sistemas operativos.
 """
-
-# Guardar en un archivo .txt
-ruta_salida = "/mnt/data/trabajo_practico_0.txt"
-with open(ruta_salida, "w", encoding="utf-8") as f:
-    f.write(texto_prolijo)
-
-ruta_salida
