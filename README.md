@@ -19,3 +19,5 @@
 - Control directo del hardware.
 - Creación de sistemas operativos.
 """
+
+## Ejercicio 2: Lenguaje utilizado: "Java"
