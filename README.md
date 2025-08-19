@@ -29,6 +29,7 @@
 - Una sentencia termina con `;`.
 - `{}` delimitan bloques.
 - Declaración de variables con el formato: `tipo nombre = valor;`.
+- Declaración de variables tipo objetos: `Tipo nombre = new Tipo()`.
 
 **Semántica:**
 - Ejemplo: `int x = 5;` significa reservar memoria para un entero y guardar el valor 5.
